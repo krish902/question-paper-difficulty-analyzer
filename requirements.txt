@@ -1,0 +1,8 @@
+tensorflow
+transformers==4.38.2
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+pypdf
